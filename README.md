@@ -25,3 +25,10 @@ If there are any requirements to building the app :
 
 Note: App is configured for android OS only and apks for different android architectures are added
 in apks directory.
+
+
+App Screenshots :
+
+
+<img src="app screenshots/Screenshot_1.png" alt="Image Description" width="250px" />|<img src="app screenshots/Screenshot_2.png" alt="Image Description" width="250px" />|<img src="app screenshots/Screenshot_3.png" alt="Image Description" width="250px" />|<img src="app screenshots/Screenshot_4.png" alt="Image Description" width="250px" />
+

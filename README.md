@@ -1,16 +1,28 @@
 # itunes_audio_player
 
-A new Flutter project.
+Supported OS versions/devices : all versions above Android 5.0 (Lollipop)
 
-## Getting Started
+Supported features:
 
-This project is a starting point for a Flutter application.
+fetching music tracks from itunes search api and displaying in a list
 
-A few resources to get you started if this is your first Flutter project:
+tracks are fetched based on search by artist name
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+50 tracks are fetched on single search
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+play/pause functionality
+
+handling edge cases like no internet, internet disconnet while a track is playing, and when no
+tracks are found.
+
+If there are any requirements to building the app :
+
+clone repo
+
+run 'flutter pub get' command in IDE terminal
+
+run project by run button or 'flutter run' command
+
+Note: App is configured for android OS only and apks for different android architectures are added
+in apks directory.
+
